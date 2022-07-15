@@ -12,13 +12,27 @@ except (ImportError, ModuleNotFoundError):
     has_mmdet = False
 
 device = 'cuda:0'
-det_config = 'configs/yolox_tiny_8x8_300e_coco.py'
-det_checkpoint = 'checkpoints/yolox_tiny_8x8_300e_coco_20210806_234250-4ff3b67e.pth'
+# det_config = 'configs/yolox_tiny_8x8_300e_coco.py'
+# det_checkpoint = 'checkpoints/yolox_tiny_8x8_300e_coco_20210806_234250-4ff3b67e.pth'
+
+
+det_config = 'configs/ssdlite_mobilenetv2_scratch_600e_coco.py'
+det_checkpoint = 'https://download.openmmlab.com/mmdetection/v2.0/ssd/ssdlite_mobilenetv2_scratch_600e_coco/ssdlite_mobilenetv2_scratch_600e_coco_20210629_110627-974d9307.pth'
+
 
 g_body_detector = init_detector(det_config, det_checkpoint, device=device.lower())
 # build the pose model from a config file and a checkpoint file
+
 pose_config = 'configs/hrnet_w32_coco_256x192.py'
-pose_checkpoint = 'checkpoints/hrnet_w32_coco_256x192-c78dce93_20200708.pth'
+pose_checkpoint = 'https://download.openmmlab.com/mmpose/top_down/hrnet/hrnet_w32_coco_256x192-c78dce93_20200708.pth' 
+#'checkpoints/hrnet_w32_coco_256x192-c78dce93_20200708.pth'
+
+
+# pose_config ='configs/mobilenetv2_coco_256x192.py'
+# pose_checkpoint='https://download.openmmlab.com/mmpose/top_down/mobilenetv2/mobilenetv2_coco_256x192-d1e58e7b_20200727.pth'
+
+
+
 g_body_aligner = init_pose_model(
     pose_config, pose_checkpoint, device=device.lower())
 
