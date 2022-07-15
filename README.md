@@ -5,10 +5,6 @@
 双人武术格斗游戏，只需单摄像头，简单而富有趣味，来试试吧！
 基于 MMPose人体姿态估计技术
 
-![](https://user-images.githubusercontent.com/15977946/171618680-49968673-6f11-4b9d-b63e-72543e8a75a0.gif)
-<div align="center">
-    <img src="https://https://github.com/lufeili/kungfu/blob/main/demo.jpg">
-</div>
 
 B站链接：https://www.bilibili.com/video/BV12t4y147Tw?p=1
 
