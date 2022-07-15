@@ -21,13 +21,6 @@
 
 ## 配置环境
 
-### 创建虚拟环境
-
-```shell
-conda create -n mmpose-demo python=3.9 pytorch=1.10 cudatoolkit=11.3 torchvision -c pytorch -y
-conda activate mmpose-demo
-```
-
 ### 安装 MMCV 和 MMDetection
 
 ```shell
@@ -38,8 +31,6 @@ pip install mmdet
 
 ### 安装 MMPose
 
-为了能随时同步最新的 MMPose 代码，我们推荐将 MMPose 克隆到本地，并通过开发模式安装
-
 ```shell
 cd ..
 git clone clone https://github.com/open-mmlab/mmpose.git
@@ -47,13 +38,10 @@ cd mmpose
 pip install -e .
 ```
 
-测试 MMPose 安装成功
+### 安装 PyGame
 
 ```shell
-python -c "from mmpose.apis import webcam"
-```
-
-
+pip install pygame
 ```
 
 ## 运行示例
