@@ -9,6 +9,15 @@
     <img src="https://user-images.githubusercontent.com/15977946/171618680-49968673-6f11-4b9d-b63e-72543e8a75a0.gif">
 </div>
 
+## 操作说明
+
+准备：两位选手分别站在摄像头视野的左右两侧，使两位选手完整身体分别出现在左右两个窗口内
+开始游戏：两位选手都要举手超过头顶
+结束游戏：按‘Esc’键
+冲拳：抬手过肩
+踢腿：抬起左脚
+飞踢：抬起右脚
+
 ## 配置环境
 
 ### 创建虚拟环境
@@ -50,13 +59,8 @@ python -c "from mmpose.apis import webcam"
 
 ```shell
 # use GPU
-python run.py --config configs/pose_estimation/pose_estimation.py
+python run.py 
 
-# use CPU
-python run.py --config configs/pose_estimation/pose_estimation.py --cpu
-
-# use debug mode
-python run.py --config configs/pose_estimation/pose_estimation.py --debug
 ```
 
 ## 相关链接
