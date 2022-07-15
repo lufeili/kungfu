@@ -10,7 +10,7 @@
     <img src="https://user-images.githubusercontent.com/15977946/171618680-49968673-6f11-4b9d-b63e-72543e8a75a0.gif">
 </div>
 <div align="center">
-    <video src="hhttps://www.bilibili.com/video/BV12t4y147Tw?p=1">
+    <video src="https://www.bilibili.com/video/BV12t4y147Tw?p=1">
 </div>
 
 ## 操作说明
