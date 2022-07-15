@@ -13,6 +13,8 @@
     <video src="https://www.bilibili.com/video/BV12t4y147Tw?p=1">
 </div>
 
+B站链接：https://www.bilibili.com/video/BV12t4y147Tw?p=1
+
 ## 操作说明
 ```
 准备：两位选手分别站在摄像头视野的左右两侧，使两位选手完整身体分别出现在左右两个窗口内

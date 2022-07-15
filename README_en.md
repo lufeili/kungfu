@@ -8,6 +8,16 @@ A 2 Player Kung Fu Fighting Game,  with one camera, have fun! based on MMPose
 
 Bilibili：https://www.bilibili.com/video/BV12t4y147Tw?p=1
 
+## Guide
+```
+START: Raise hands above head        
+EXIT: Press 'Esc'
+Punch: Left or Right hand Up
+Kick: Left leg Up
+Flying Kick: Right leg Up
+```
+
+
 ## Configure Environment
 
 ### Install MMCV and MMDetection
