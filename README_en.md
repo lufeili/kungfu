@@ -2,9 +2,8 @@
 
 [简体中文](/README.md) | English
 
-A 2 Player Kung Fu Fighting Game,  with one camera, have fun! based on MMPose
+2 Player Kung Fu Fighting Game,  with one camera, have fun! based on MMPose
 
-[![Watch the video](https://user-images.githubusercontent.com/15977946/171618680-49968673-6f11-4b9d-b63e-72543e8a75a0.gif)](https://www.bilibili.com/video/BV12t4y147Tw?p=1)
 ![Demo](demo.jpg?raw=true "demo")
 Bilibili：https://www.bilibili.com/video/BV12t4y147Tw?p=1
 
@@ -60,6 +59,3 @@ python run.py
   - [Code](https://github.com/open-mmlab/mmpose)
   - [Documentation](https://mmpose.readthedocs.io/en/latest/)
   - [Model Zoo](https://mmpose.readthedocs.io/en/latest/modelzoo.html)
-- About "Infinity Pose" MMPose Creative Demo Competition
-  - [Event Home Page](https://openmmlab.com/community/mmpose-demo)
-  - [Submission](https://github.com/open-mmlab/mmpose/issues/1407)
