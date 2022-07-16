@@ -5,7 +5,7 @@
 A 2 Player Kung Fu Fighting Game,  with one camera, have fun! based on MMPose
 
 [![Watch the video](https://user-images.githubusercontent.com/15977946/171618680-49968673-6f11-4b9d-b63e-72543e8a75a0.gif)](https://www.bilibili.com/video/BV12t4y147Tw?p=1)
-![Demo](/kungfu/images/demo.jpg?raw=true "demo")
+![Demo](/images/demo.jpg?raw=true "demo")
 Bilibili：https://www.bilibili.com/video/BV12t4y147Tw?p=1
 
 ## Guide
