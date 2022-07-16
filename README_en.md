@@ -36,13 +36,6 @@ cd mmpose
 pip install -e .
 ```
 
-### Configure pre-commit hook
-
-```shell
-# In mmpose-webcam-demo repo folder
-pip install pre-commit
-pre-commit install
-```
 
 ## Run the Demo
 
