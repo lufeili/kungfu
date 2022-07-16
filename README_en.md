@@ -3,8 +3,7 @@
 [简体中文](/README.md) | English
 
 2 Player Kung Fu Fighting Game,  with one camera, have fun! based on MMPose
-
-![Demo](demo.jpg?raw=true "demo")
+![demo](https://user-images.githubusercontent.com/108378035/179365172-73c5c6dd-6768-4736-a06a-4ef6992b392b.jpg)
 Bilibili：https://www.bilibili.com/video/BV12t4y147Tw?p=1
 
 ## Guide
