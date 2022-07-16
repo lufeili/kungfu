@@ -6,7 +6,7 @@
 based on MMPose
 
 ![demo](https://user-images.githubusercontent.com/108378035/179365172-73c5c6dd-6768-4736-a06a-4ef6992b392b.jpg)
-https://user-images.githubusercontent.com/108378035/179365477-31c7dc23-e6aa-43ce-aa5d-622a3e1638ee.mp4
+
 
 Bilibili：https://www.bilibili.com/video/BV12t4y147Tw?p=1
 
