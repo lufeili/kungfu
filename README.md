@@ -7,7 +7,7 @@
 
 [![demo](https://user-images.githubusercontent.com/108378035/179365172-73c5c6dd-6768-4736-a06a-4ef6992b392b.jpg)](https://www.bilibili.com/video/BV12t4y147Tw?p=1)
 
-B站链接：https://www.bilibili.com/video/BV12t4y147Tw?p=1
+演示视频 B站链接：https://www.bilibili.com/video/BV12t4y147Tw?p=1
 
 ## 游戏操作说明
 ```
