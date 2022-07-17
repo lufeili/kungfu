@@ -37,7 +37,7 @@ pip install mmdet
 
 ```shell
 cd ..
-git clone clone https://github.com/open-mmlab/mmpose.git
+git clone https://github.com/open-mmlab/mmpose.git
 cd mmpose
 pip install -e .
 ```
