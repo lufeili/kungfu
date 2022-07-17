@@ -21,6 +21,12 @@
 
 ## 配置环境
 
+### 安装 Pygame
+
+```shell
+pip install pygame
+```
+
 ### 安装 MMCV 和 MMDetection
 
 ```shell
@@ -36,12 +42,6 @@ cd ..
 git clone https://github.com/open-mmlab/mmpose.git
 cd mmpose
 pip install -e .
-```
-
-### 安装 PyGame
-
-```shell
-pip install pygame
 ```
 
 ### 安装本游戏

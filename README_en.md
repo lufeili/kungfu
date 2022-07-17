@@ -20,7 +20,8 @@ Flying Kick: Right leg Up
 
 ## Configure Environment
 
-### Install PyGame
+### Install Pygame
+
 ```shell
 pip install pygame
 ```
