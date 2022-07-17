@@ -5,12 +5,11 @@
 2 Player Kung Fu Fighting Game,  with one camera, have fun! 
 based on MMPose
 
-![demo](https://user-images.githubusercontent.com/108378035/179365172-73c5c6dd-6768-4736-a06a-4ef6992b392b.jpg)
+[![demo](https://user-images.githubusercontent.com/108378035/179365172-73c5c6dd-6768-4736-a06a-4ef6992b392b.jpg)](https://www.bilibili.com/video/BV12t4y147Tw?p=1)
 
+Demo video：https://www.bilibili.com/video/BV12t4y147Tw?p=1
 
-Bilibili：https://www.bilibili.com/video/BV12t4y147Tw?p=1
-
-## Guide
+## Game Guide
 ```
 START: Raise hands above head        
 EXIT: Press 'Esc'
@@ -20,6 +19,11 @@ Flying Kick: Right leg Up
 ```
 
 ## Configure Environment
+
+### Install PyGame
+```shell
+pip install pygame
+```
 
 ### Install MMCV and MMDetection
 
@@ -38,8 +42,14 @@ cd mmpose
 pip install -e .
 ```
 
+### Install the Game
 
-## Run the Demo
+```shell
+cd ..
+git clone https://github.com/lufeili/kungfu.git
+
+```
+## Run the Game
 
 ```shell
 python run.py
